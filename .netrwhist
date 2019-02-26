@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/icely/Desktop/wdi-terabyte-work/week1/2-19/command-line-homework'
+let g:netrw_dirhist_2='/home/icely/Desktop/wdi-terabyte-work/week1/2-19'
+let g:netrw_dirhist_3='/home/icely/Desktop/wdi-terabyte-work/week1/2-19/command-line-homework'
